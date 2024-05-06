@@ -7,3 +7,5 @@ This Repository is dedicated to examining the data analysis process in SQL. Here
   * Defining tables with CREATE TABLE and specifying column attributes.
 
 For this database creation, i will be creating a database and tables specifying column attributes for an online restaurant called "Menuroom", which specializes in supplying cooked meals to customers through the online platforms like Jumia, Boltfood, Glovo and Chowdeck.
+Picture description below:
+![](Create_Database_Tables.png)
