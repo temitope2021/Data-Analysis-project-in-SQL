@@ -4,4 +4,6 @@ This Repository is dedicated to examining the data analysis process in SQL. Here
 ## SQL Projects, Techniques, and Manipulations Overview
 1. Database Creation:
   * Creating a new database using CREATE DATABASE.
-  * Defining tables with CREATE TABLE and specifying column attributes
+  * Defining tables with CREATE TABLE and specifying column attributes.
+
+For this database creation, i will be creating a database and tables specifying column attributes for an online restaurant called "Menuroom", which specializes in supplying cooked meals to customers through the online platforms like Jumia, Boltfood, Glovo and Chowdeck.
