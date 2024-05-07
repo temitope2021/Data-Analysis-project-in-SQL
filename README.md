@@ -9,3 +9,9 @@ This Repository is dedicated to examining the data analysis process in SQL. Here
 For this database creation, i will be creating a database and tables specifying column attributes for an online restaurant called "Menuroom", which specializes in supplying cooked meals to customers through the online platforms like Jumia, Boltfood, Glovo and Chowdeck.
 Picture description below:
 ![](Create_Database_Tables.png)
+
+2. Database Management:
+    Adding data to tables with INSERT INTO.
+    Retrieving data with SELECT statements.
+    Updating existing data using UPDATE.
+    Deleting records with DELETE.
