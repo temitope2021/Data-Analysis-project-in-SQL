@@ -14,4 +14,4 @@ Picture description below:
     Adding data to tables with INSERT INTO.
     Retrieving data with SELECT statements.
     Updating existing data using UPDATE.
-    Deleting records with DELETE.
+    Deleting records with DELETE
